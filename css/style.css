@@ -33,6 +33,11 @@ img.social-media {
 	height: 50px;
 }
 
+div.container-fluid {
+	padding-top:30px;
+	padding-bottom:30px
+}
+
 div.content {
 	padding: 20px;
 }
